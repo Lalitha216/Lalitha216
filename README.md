@@ -59,5 +59,7 @@ Worked on building and enhancing e-learning platforms using Angular and modern w
 </p>
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=Lalitha216&color=blue)
 
+---
 Want to collaborate or just talk tech? Feel free to connect!
