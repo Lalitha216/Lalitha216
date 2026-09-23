@@ -1,7 +1,7 @@
 # Hi there, I'm Lalitha 👋
 
 🌱 **Currently Growing:**  
-I'm focused on mastering the **MERN stack** and sharpening my skills in **Data Structures & Algorithms (DSA)**
+I'm focused on mastering the **JAVA Full Stack** and sharpening my skills in **Data Structures & Algorithms (DSA)**
 
 
 🤖 Fun Fact
